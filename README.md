@@ -21,4 +21,3 @@ To develop an improved remote data possession checking (RDPC) scheme that ensure
 3. KGC
 4. Verifier
 5. Cloud Service Provider
-
