@@ -1,4 +1,5 @@
 **Goal:**
+
 The primary goal of the project is to develop an improved remote data possession checking (RDPC) scheme that ensures the integrity of outsourced data while maintaining data privacy. The scheme specifically aims to designate a unique verifier for data integrity checking, avoiding the complexities of public key infrastructure (PKI) and ensuring that the verifier cannot gain any knowledge about the data.
 
 **Purpose:**
