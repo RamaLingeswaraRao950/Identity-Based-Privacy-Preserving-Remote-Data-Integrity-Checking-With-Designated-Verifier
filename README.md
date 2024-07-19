@@ -14,3 +14,11 @@ To develop an improved remote data possession checking (RDPC) scheme that ensure
 3. Supporting dynamic data operations with MHT.
 4. Proving the security of the scheme based on the discrete logarithm assumption and the computational Diffie-Hellman assumption.
 5. Demonstrating the feasibility and efficiency of the scheme through theoretical analysis and experimental results.
+
+**Modules**
+1. Data Owner
+2. Data User
+3. KGC
+4. Verifier
+5. Cloud Service Provider
+
