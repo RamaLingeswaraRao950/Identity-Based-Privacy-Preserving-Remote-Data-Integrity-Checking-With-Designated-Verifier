@@ -24,11 +24,9 @@ To develop an improved remote data possession checking (RDPC) scheme that ensure
 
 💻 Tech Stack :-
 
---- 🌐 Frontend: HTML5, CSS3, JavaScript
-
---- ⚙️ Backend: Java/J2EE, JSP, Servlets
-
----🗄️ Database: MySQL
+--- 🌐 Frontend : HTML5, CSS3, JavaScript
+--- ⚙️ Backend : Java/J2EE, JSP, Servlets
+---🗄️ Database : MySQL
 
 ✅ What You’ll Need to Run It :-
 
@@ -38,6 +36,6 @@ To develop an improved remote data possession checking (RDPC) scheme that ensure
 
 --- 🗄️ MySQL (Version 8.0 or later)
 
---- 🖥️ IDE: Eclipse/IntelliJ IDEA recommended
+--- 🖥️ IDE : Eclipse/IntelliJ IDEA recommended
 
---- 🌍 Web Browser: For testing the web interface
+--- 🌍 Web Browser : For testing the web interface
