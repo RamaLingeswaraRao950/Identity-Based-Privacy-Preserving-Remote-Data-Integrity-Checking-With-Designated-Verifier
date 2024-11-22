@@ -1,37 +1,43 @@
-**Goal:**
+**Goal :**
 
 To develop an improved remote data possession checking (RDPC) scheme that ensures the integrity of outsourced data while maintaining data privacy. The scheme specifically aims to designate a unique verifier for data integrity checking, avoiding the complexities of public key infrastructure (PKI) and ensuring that the verifier cannot gain any knowledge about the data.
 
-**Purpose:**
+**Purpose :**
 - **Address Limitations of Existing Systems:** Current systems either rely on PKI, which involves complex certificate management, or do not provide adequate privacy protection. The proposed scheme overcomes these limitations.
 - **Ensure Data Privacy:** By using identity-based cryptography (IBC) and a random integer to blind data integrity proofs, the scheme ensures that the designated verifier cannot access the data content.
 - **Support Dynamic Data Operations:** The use of a Merkle hash tree (MHT) structure allows for efficient and dynamic data updates.
 - **Improve Efficiency and Security:** The scheme is designed to be computationally efficient and secure against untrusted cloud service providers (CSPs) and unauthorized verifiers.
 
-**Contributions:**
+**Contributions :**
 1. Implementing an RDPC scheme with a designated verifier using IBC technology.
 2. Achieving data privacy by blinding data integrity proofs.
 3. Supporting dynamic data operations with MHT.
 4. Proving the security of the scheme based on the discrete logarithm assumption and the computational Diffie-Hellman assumption.
 5. Demonstrating the feasibility and efficiency of the scheme through theoretical analysis and experimental results.
 
-**Modules**
+**Modules :**
 1. Data Owner
 2. Data User
 3. KGC
 4. Verifier
 5. Cloud Service Provider
 
-💻 Tech Stack
+💻 Tech Stack :-
 
-🌐 Frontend: HTML5, CSS3, JavaScript
-⚙️ Backend: Java/J2EE, JSP, Servlets
-🗄️ Database: MySQL
+--- 🌐 Frontend: HTML5, CSS3, JavaScript
 
-✅ What You’ll Need to Run It
+--- ⚙️ Backend: Java/J2EE, JSP, Servlets
 
-☕ Java Development Kit (JDK) (Version 8 or later)
-🌐 Apache Tomcat (Version 9 or later)
-🗄️ MySQL (Version 8.0 or later)
-🖥️ IDE: Eclipse/IntelliJ IDEA recommended
-🌍 Web Browser: For testing the web interface
+---🗄️ Database: MySQL
+
+✅ What You’ll Need to Run It :-
+
+--- ☕ Java Development Kit (JDK) (Version 8 or later)
+
+--- 🌐 Apache Tomcat (Version 9 or later)
+
+--- 🗄️ MySQL (Version 8.0 or later)
+
+--- 🖥️ IDE: Eclipse/IntelliJ IDEA recommended
+
+--- 🌍 Web Browser: For testing the web interface
