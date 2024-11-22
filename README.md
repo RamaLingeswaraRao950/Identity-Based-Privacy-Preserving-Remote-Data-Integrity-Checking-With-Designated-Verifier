@@ -21,3 +21,17 @@ To develop an improved remote data possession checking (RDPC) scheme that ensure
 3. KGC
 4. Verifier
 5. Cloud Service Provider
+
+💻 Tech Stack
+
+🌐 Frontend: HTML5, CSS3, JavaScript
+⚙️ Backend: Java/J2EE, JSP, Servlets
+🗄️ Database: MySQL
+
+✅ What You’ll Need to Run It
+
+☕ Java Development Kit (JDK) (Version 8 or later)
+🌐 Apache Tomcat (Version 9 or later)
+🗄️ MySQL (Version 8.0 or later)
+🖥️ IDE: Eclipse/IntelliJ IDEA recommended
+🌍 Web Browser: For testing the web interface
